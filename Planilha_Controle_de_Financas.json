@@ -1,0 +1,637 @@
+{
+    "VISÃO GERAL": [],
+    "IMPOSTO DE RENDA": [
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "1. DADOS DO TITULAR"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "NOME"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "CPF"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "NASCIMENTO"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "TÍTULO DE ELEITOR"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "CÔNJUGE"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "RUA"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "RUA ABREVIADA"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "CEP"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "TELEFONE"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "CELULAR"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "E-MAIL"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "HOUVE ALTERAÇÃO DA ENTREGA ANTERIOR"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "DEPENDENTE CÔNJUGE"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "RESIDENTE DO EXTERIOR"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "2. INFORMES"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "SALDO TOTAL"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "BANCO 1"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "SALDO BANCO 1"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "BANCO 2"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "SALDO BANCO 2"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "BANCO 3"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "SALDO BANCO 3"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "BANCO 4"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "SALDO BANCO 4"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "BANCO 5"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "SALDO BANCO 5"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "BANCO 6"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "SALDO BANCO 6"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "BANCO 7"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "SALDO BANCO 7"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "BANCO 8"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "SALDO BANCO 8"
+        }
+    ],
+    "Planilha3": [
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": ""
+        },
+        {
+            "Unnamed: 0": "Rótulos de Linha",
+            "Unnamed: 1": "Soma de Acumulado",
+            "Unnamed: 2": "Soma de Dividendos"
+        },
+        {
+            "Unnamed: 0": 2,
+            "Unnamed: 1": 81016.41911506378,
+            "Unnamed: 2": 818.2658330621441
+        },
+        {
+            "Unnamed: 0": 5,
+            "Unnamed: 1": 245798.17976558438,
+            "Unnamed: 2": 2482.561615632402
+        },
+        {
+            "Unnamed: 0": 10,
+            "Unnamed: 1": 694999.401623953,
+            "Unnamed: 2": 7019.493956401925
+        },
+        {
+            "Unnamed: 0": 20,
+            "Unnamed: 1": 3016180.1697153356,
+            "Unnamed: 2": 30463.419714124888
+        },
+        {
+            "Unnamed: 0": 30,
+            "Unnamed: 1": 10768532.395584665,
+            "Unnamed: 2": 108762.17719540512
+        },
+        {
+            "Unnamed: 0": "Total Geral",
+            "Unnamed: 1": 14806526.565804603,
+            "Unnamed: 2": 149545.9183146265
+        }
+    ],
+    "METAS&OBJETIVOS": [
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "1. CONFIGURAÇÕES",
+            "Unnamed: 3": "",
+            "Unnamed: 4": "",
+            "Unnamed: 5": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "",
+            "Unnamed: 3": "",
+            "Unnamed: 4": "",
+            "Unnamed: 5": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "",
+            "Unnamed: 3": "",
+            "Unnamed: 4": "",
+            "Unnamed: 5": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "SALÁRIO",
+            "Unnamed: 3": 10000,
+            "Unnamed: 4": "",
+            "Unnamed: 5": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "RENDIMENTO CARTEIRA",
+            "Unnamed: 3": 0.0101,
+            "Unnamed: 4": "",
+            "Unnamed: 5": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "SUGESTÃO DE INVESTIMENTO (30%)",
+            "Unnamed: 3": 3000,
+            "Unnamed: 4": "",
+            "Unnamed: 5": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "",
+            "Unnamed: 3": "",
+            "Unnamed: 4": "",
+            "Unnamed: 5": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "",
+            "Unnamed: 3": "",
+            "Unnamed: 4": "",
+            "Unnamed: 5": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "2. INVESTIMENTO MENSAL",
+            "Unnamed: 3": "",
+            "Unnamed: 4": "",
+            "Unnamed: 5": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "",
+            "Unnamed: 3": "",
+            "Unnamed: 4": "",
+            "Unnamed: 5": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "",
+            "Unnamed: 3": "",
+            "Unnamed: 4": "",
+            "Unnamed: 5": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "QUANTO INVESTIR POR MÊS ?",
+            "Unnamed: 3": 3000,
+            "Unnamed: 4": "",
+            "Unnamed: 5": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "POR QUANTOS ANOS?",
+            "Unnamed: 3": 15,
+            "Unnamed: 4": "",
+            "Unnamed: 5": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "TAXA DE RENDIMENTO MENSAL ?",
+            "Unnamed: 3": 0.0101,
+            "Unnamed: 4": "",
+            "Unnamed: 5": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "PATRIMONIO ACUMULADO:",
+            "Unnamed: 3": 1515923.8605092417,
+            "Unnamed: 4": "",
+            "Unnamed: 5": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "DIVIDENDOS MENSAIS:",
+            "Unnamed: 3": 15310.83099114334,
+            "Unnamed: 4": "",
+            "Unnamed: 5": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "",
+            "Unnamed: 3": "",
+            "Unnamed: 4": "",
+            "Unnamed: 5": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "",
+            "Unnamed: 3": "",
+            "Unnamed: 4": "",
+            "Unnamed: 5": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "3. CENÁRIOS",
+            "Unnamed: 3": "",
+            "Unnamed: 4": "",
+            "Unnamed: 5": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "",
+            "Unnamed: 3": "",
+            "Unnamed: 4": "",
+            "Unnamed: 5": ""
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "",
+            "Unnamed: 3": "Acumulado",
+            "Unnamed: 4": "Dividendos",
+            "Unnamed: 5": "Coluna 1"
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "QUANTO EM 2 ANOS ?",
+            "Unnamed: 3": 81016.41911506378,
+            "Unnamed: 4": 818.2658330621441,
+            "Unnamed: 5": 2
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "QUANTO EM 5 ANOS ?",
+            "Unnamed: 3": 245798.17976558438,
+            "Unnamed: 4": 2482.561615632402,
+            "Unnamed: 5": 5
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "QUANTO EM 10 ANOS ?",
+            "Unnamed: 3": 694999.401623953,
+            "Unnamed: 4": 7019.493956401925,
+            "Unnamed: 5": 10
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "QUANTO EM 20 ANOS ?",
+            "Unnamed: 3": 3016180.1697153356,
+            "Unnamed: 4": 30463.419714124888,
+            "Unnamed: 5": 20
+        },
+        {
+            "Unnamed: 0": "",
+            "Unnamed: 1": "",
+            "Unnamed: 2": "QUANTO EM 30 ANOS ?",
+            "Unnamed: 3": 10768532.395584665,
+            "Unnamed: 4": 108762.17719540512,
+            "Unnamed: 5": 30
+        }
+    ],
+    "c-TABELAS": [
+        {
+            "1 - Banco do Brasil": "102 - XP Investimentos CCTVM S.A."
+        },
+        {
+            "1 - Banco do Brasil": "104 - Caixa Econômica Federal"
+        },
+        {
+            "1 - Banco do Brasil": "119 - Banco Western Union do Brasil"
+        },
+        {
+            "1 - Banco do Brasil": "184 - Banco Itaú BBA S.A."
+        },
+        {
+            "1 - Banco do Brasil": "197 - Stone Pagamentos"
+        },
+        {
+            "1 - Banco do Brasil": "208 - Banco BTG Pactual"
+        },
+        {
+            "1 - Banco do Brasil": "212 - Banco Original"
+        },
+        {
+            "1 - Banco do Brasil": "218 - Banco Bonsucesso"
+        },
+        {
+            "1 - Banco do Brasil": "229 - Banco Cruzeiro do Sul"
+        },
+        {
+            "1 - Banco do Brasil": "237 - Banco Bradesco"
+        },
+        {
+            "1 - Banco do Brasil": "24 - Banco de Pernambuco"
+        },
+        {
+            "1 - Banco do Brasil": "241 - Banco Clássico"
+        },
+        {
+            "1 - Banco do Brasil": "250 - Banco de Crédito e Varejo (BCV)"
+        },
+        {
+            "1 - Banco do Brasil": "260 - Nubank"
+        },
+        {
+            "1 - Banco do Brasil": "29 - Banco do Estado do Rio de Janeiro"
+        },
+        {
+            "1 - Banco do Brasil": "290 - PagBank"
+        },
+        {
+            "1 - Banco do Brasil": "3 - Banco da Amazônia"
+        },
+        {
+            "1 - Banco do Brasil": "33 - Banco Santander"
+        },
+        {
+            "1 - Banco do Brasil": "336 - C6 Bank"
+        },
+        {
+            "1 - Banco do Brasil": "341 - Itaú Unibanco"
+        },
+        {
+            "1 - Banco do Brasil": "37 - Banco do Estado do Pará"
+        },
+        {
+            "1 - Banco do Brasil": "376 - Banco JPMorgan S.A."
+        },
+        {
+            "1 - Banco do Brasil": "380 - PicPay"
+        },
+        {
+            "1 - Banco do Brasil": "4 - Banco do Nordeste do Brasil"
+        },
+        {
+            "1 - Banco do Brasil": "41 - Banco do Estado do Rio Grande do Sul"
+        },
+        {
+            "1 - Banco do Brasil": "422 - Banco Safra"
+        },
+        {
+            "1 - Banco do Brasil": "44 - Banco BVA"
+        },
+        {
+            "1 - Banco do Brasil": "464 - Banco Sumitomo Mitsui Brasileiro"
+        },
+        {
+            "1 - Banco do Brasil": "477 - Citibank"
+        },
+        {
+            "1 - Banco do Brasil": "600 - Banco Luso Brasileiro"
+        },
+        {
+            "1 - Banco do Brasil": "604 - Banco Industrial do Brasil"
+        },
+        {
+            "1 - Banco do Brasil": "610 - Banco VR"
+        },
+        {
+            "1 - Banco do Brasil": "62 - Hipercard Banco Múltiplo"
+        },
+        {
+            "1 - Banco do Brasil": "634 - Banco Triângulo"
+        },
+        {
+            "1 - Banco do Brasil": "65 - Banco Lemon"
+        },
+        {
+            "1 - Banco do Brasil": "654 - Banco AJ Renner"
+        },
+        {
+            "1 - Banco do Brasil": "655 - Banco Votorantim"
+        },
+        {
+            "1 - Banco do Brasil": "66 - Banco Morgan Stanley"
+        },
+        {
+            "1 - Banco do Brasil": "707 - Banco Daycoval"
+        },
+        {
+            "1 - Banco do Brasil": "72 - Banco Rural Mais"
+        },
+        {
+            "1 - Banco do Brasil": "734 - Banco Gerdau"
+        },
+        {
+            "1 - Banco do Brasil": "735 - Banco Neon"
+        },
+        {
+            "1 - Banco do Brasil": "74 - Banco J. Safra"
+        },
+        {
+            "1 - Banco do Brasil": "746 - Banco Modal"
+        },
+        {
+            "1 - Banco do Brasil": "748 - Banco Cooperativo Sicredi S.A."
+        },
+        {
+            "1 - Banco do Brasil": "749 - Banco Simples"
+        },
+        {
+            "1 - Banco do Brasil": "77 - Banco Inter"
+        },
+        {
+            "1 - Banco do Brasil": "79 - Banco JBS"
+        },
+        {
+            "1 - Banco do Brasil": "82 - Banco Topázio"
+        },
+        {
+            "1 - Banco do Brasil": "NOMAD"
+        },
+        {
+            "1 - Banco do Brasil": "SICOOB"
+        }
+    ]
+}
